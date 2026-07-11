@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Saints for All Seasons — A Digital Catholic Spiritual Formation Library</title>
+  <meta name="description" content="Companions for every season of the spiritual life. An archive of Catholic wisdom from the saints, Scripture, and Tradition.">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✝</text></svg>">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="nav" id="mainNav">
+    <div class="nav__inner">
+      <div class="nav__brand" onclick="router.navigate('home')">Saints for All Seasons</div>
+      <div class="nav__links" id="navLinks">
+        <span class="nav__link" data-page="home" onclick="router.navigate('home')">Home</span>
+        <span class="nav__link" data-page="seasons" onclick="router.navigate('seasons')">Seasons</span>
+        <span class="nav__link" data-page="saints" onclick="router.navigate('saints')">Saints</span>
+        <span class="nav__link" data-page="library" onclick="router.navigate('library')">Library</span>
+        <span class="nav__link" data-page="journal" onclick="router.navigate('journal')">Journal</span>
+        <span class="nav__link" data-page="about" onclick="router.navigate('about')">About</span>
+      </div>
+      <div class="nav__toggle" id="navToggle" onclick="toggleMobileNav()">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Pages Container -->
+  <main id="app"></main>
+
+  <!-- Scripts -->
+  <script src="data/saints.js"></script>
+  <script src="data/seasons.js"></script>
+  <script src="data/books.js"></script>
+  <script src="data/journal.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>
