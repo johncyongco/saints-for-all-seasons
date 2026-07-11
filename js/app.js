@@ -98,7 +98,7 @@ function renderHome() {
   return `
     <!-- Hero -->
     <section class="hero">
-      <img class="hero__image" src="assets/images/hero.png" alt="Hero image">
+      <img class="hero__image" src="assets/images/hero.jpg" alt="Hero image">
       <div class="hero__overlay"></div>
       <div class="hero__content">
         <h1 style="color: #CBB794;">Saints for All Seasons</h1>
