@@ -24,8 +24,8 @@ const SEASONS = [
       { text: "We are afflicted in every way, but not crushed; perplexed, but not driven to despair.", reference: "2 Corinthians 4:8" }
     ],
     catechism: [
-      { text: "This combat can be the sign of a new and more profound conversion.", reference: "CCC 2735" },
-      { text: "Spiritual progress involves the ascesis and mortification that gradually lead to living in the peace and joy of the Beatitudes.", reference: "CCC 2045" }
+      { text: "The humble are not surprised by their distress; it leads them to trust more, to hold fast in constancy.", reference: "CCC 2733" },
+      { text: "Discouragement during periods of dryness; sadness that, because we have 'great possessions,' we have not given all to the Lord; disappointment over not being heard according to our own will.", reference: "CCC 2728" }
     ],
     teachings: [
       {
