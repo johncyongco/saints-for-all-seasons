@@ -81,7 +81,8 @@ const SEASONS = [
       { text: "The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness.", reference: "Galatians 5:22" }
     ],
     catechism: [
-      { text: "Consolation is a movement of the Holy Spirit that inspires desire for God and peace of soul.", reference: "CCC 1509" }
+      { text: "God reveals himself to man by giving him the grace to see and love him.", reference: "CCC 50" },
+      { text: "The Holy Spirit teaches us to pray and intercedes for us with inexpressible groanings.", reference: "CCC 2734" }
     ],
     teachings: [
       {
@@ -217,7 +218,7 @@ const SEASONS = [
       { text: "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me.", reference: "Galatians 2:20" }
     ],
     catechism: [
-      { text: "The way of perfection passes by way of the Cross.", reference: "CCC 1615" }
+      { text: "The way of perfection passes by way of the Cross. There is no holiness without renunciation and spiritual battle.", reference: "CCC 2015" }
     ],
     teachings: [
       { title: "Night of the Senses", content: "The first stage where God withdraws sensible consolation, teaching the soul to persevere in faith without emotional reward.", source: "Dark Night of the Soul, Book I" },
@@ -261,8 +262,8 @@ const SEASONS = [
       { text: "Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.", reference: "Proverbs 3:5-6" }
     ],
     catechism: [
-      { text: "Moral conscience, present at the heart of the person, enjoins him at the appropriate moment to do good and avoid evil.", reference: "CCC 1777" },
-      { text: "In the formation of their conscience, the Word of God is the light for our path.", reference: "CCC 174" }
+      { text: "In the moral conscience, the human person perceives the requirements of the moral law.", reference: "CCC 1776" },
+      { text: "In the formation of their conscience, the Word of God is the light for our path.", reference: "CCC 104" }
     ],
     teachings: [
       { title: "Ignatian Discernment", content: "St. Ignatius taught that authentic discernment involves attending to the movements of consolation and desolation, seeking clarity through prayer and obedience.", source: "Spiritual Exercises" },
@@ -351,7 +352,7 @@ const SEASONS = [
       { text: "If anyone serves me, he must follow me; and where I am, there will my servant be also.", reference: "John 12:26" }
     ],
     catechism: [
-      { text: "Everyone has a vocation. It is the call to follow Christ and to live out one's baptismal promises.", reference: "CCC 871" }
+      { text: "Everyone has a vocation. It is the call to follow Christ and to live out one's baptismal promises.", reference: "CCC 872" }
     ],
     teachings: [
       { title: "The Universal Call to Holiness", content: "Vatican II taught that all Christians, whatever their state of life, are called to the fullness of holiness.", source: "Lumen Gentium, Ch. 5" }
@@ -395,7 +396,7 @@ const SEASONS = [
     ],
     catechism: [
       { text: "Redemptive suffering means that suffering can unite us to Christ and contribute to the salvation of others.", reference: "CCC 1521" },
-      { text: "Following Christ, the Way, the Truth, and the Life, the whole Christian community participates in the suffering of Christ.", reference: "CCC 1492" }
+      { text: "Following Christ, the Way, the Truth, and the Life, the whole Christian community participates in the suffering of Christ.", reference: "CCC 1505" }
     ],
     teachings: [
       { title: "Suffering with Christ", content: "St. Paul teaches that our sufferings, when united with Christ's, become redemptive — they participate in the salvation of the world.", source: "Colossians 1:24" },
